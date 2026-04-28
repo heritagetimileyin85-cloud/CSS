@@ -3,7 +3,7 @@ body{
 }
 .logo{
     color: white;
-    font-size: 30px;
+    font-size: 25px;
 }
 .written{
     color: white;
@@ -24,7 +24,7 @@ body{
 }
 .twenty-four{
     color: white;
-    font: size 30px;
+    font-size: 23px;
 }
 .sign{
     background-color:rgb(63, 2, 2);
@@ -38,7 +38,8 @@ body{
     font-size: 10 ;
 }
 .div1{
-    padding-left: 300px;
+    color: white;
+    padding-left: 250px;
 }
 .retro{
     color: white;
@@ -46,5 +47,5 @@ body{
 }
 .trimming{
     color: white;
-    padding-left: 300px;
+    padding-left: 250px;
 }
