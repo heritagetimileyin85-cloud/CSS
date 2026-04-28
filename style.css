@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(49, 3, 3);
+}
+.logo{
+    color: white;
+}
+.thoughtbot{
+    color: rgb(204, 204, 13);
+}
+.topics{
+    color: black;
+    background-color:yellow;
+    height: 50px;
+    width: 100px;
+    border-radius:20px;
+    margin-top: 5%;
+}
+.twenty-four{
+    color: white;
+    font-size:20px;
+}
+.sign{
+    color: white;
+    height: 200 px;
+    width: 200 px;
+}
