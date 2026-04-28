@@ -1,26 +1,50 @@
 body{
-    background-color: rgb(49, 3, 3);
+    background-color: rgb(31, 1, 1);
 }
 .logo{
     color: white;
+    font-size: 30px;
+}
+.written{
+    color: white;
+    font-size: 25px ;
 }
 .thoughtbot{
     color: rgb(204, 204, 13);
 }
-.topics{
+.button{
     color: black;
     background-color:yellow;
-    height: 50px;
-    width: 100px;
-    border-radius:20px;
-    margin-top: 5%;
+    height: 30%;
+    width: 30%;
+    border-radius:5%;
+    padding-bottom:5px;
+    margin: 50px;
+    font-size: 20px;
 }
 .twenty-four{
     color: white;
-    font-size:20px;
+    font: size 30px;
 }
 .sign{
+    background-color:rgb(63, 2, 2);
+    color: rgb(253, 253, 253);
+    height: 300px;
+    width: 700px;
+    padding-top:50px ;
+}
+.your{
     color: white;
-    height: 200 px;
-    width: 200 px;
+    font-size: 10 ;
+}
+.div1{
+    padding-left: 300px;
+}
+.retro{
+    color: white;
+    font-size: 30px;
+}
+.trimming{
+    color: white;
+    padding-left: 300px;
 }
